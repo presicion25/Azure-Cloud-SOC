@@ -61,9 +61,6 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
   ![Attack Map](https://imgur.com/XJnrrgq.png)
   <br />
   <br />
-  ![Attack Investigation](https://imgur.com/0Ts34ex.png)
-  <br />
-  <br />
   
   ## Metrics Before Implementing Security Controls
   
