@@ -14,7 +14,7 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
 <br />
 
 
-## Environments and Technologies Used
+## Environments and Architecture Technologies Used
 
 - Microsoft Azure (Cloud Platform)
   - Resource Groups
@@ -28,6 +28,16 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
   
  - Remote Desktop Protocol (Used for logging in to the VMs)
  - OSB Studio (For recording some my labs showcasing the procedures)
+ 
+ ## Security Metrics Used for Queries in the Log Analytics Workspace
+ 
+ - Syslog (Linux Event Logs)
+ - SecurityIncident (Sentinel Created Incidents)
+ - SecurityAlert (Alerts Triggered in the Log Analytics Work Space)
+ - AzureNetworkAnalytics_CL (Malicious Events)
+ - SecurityEvent (Windows Event Logs)
+  
+  
   
   
   
