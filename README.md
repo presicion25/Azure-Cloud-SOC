@@ -31,12 +31,36 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
  
  ## Security Metrics Used for Queries in the Log Analytics Workspace
  
- - Syslog (Linux Event Logs)
- - SecurityIncident (Sentinel Created Incidents)
- - SecurityAlert (Alerts Triggered in the Log Analytics Work Space)
- - AzureNetworkAnalytics_CL (Malicious Events)
- - SecurityEvent (Windows Event Logs)
+ - Syslog (For Linux Event Logs)
+ - SecurityIncident (For Sentinel Created Incidents)
+ - SecurityAlert (For Alerts Triggered in the Log Analytics Work Space)
+ - AzureNetworkAnalytics_CL (For Malicious Events Triggered)
+ - SecurityEvent (For Windows Event Logs)
+ <br />
+ <br />
+ 
+ 
+  ## Architecture Before Hardening
   
+  Before hardening, all resources were exposed to the internet with public endpoints with the Network Security Group firewalls wide open.
+  <br />
+  <br />
+  ![Architecture Diagram](https://imgur.com/TcINeqM.png)
+  <br />
+  <br />
+  
+ ## Attack Maps Before Environment Hardening 
+ These maps show malicious traffic attempting to penetrate the Azure environment before security controls were implemented. 
+ 
+  ![Attack Map](https://imgur.com/JF0gqP9.png)
+  <br />
+  <br />
+  ![Attack Map](https://imgur.com/86YhWnh.png)
+  <br />
+  <br />
+  ![Attack Map](https://imgur.com/XJnrrgq.png)
+  <br />
+  <br />
   
   
   
