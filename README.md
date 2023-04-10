@@ -1,3 +1,5 @@
-<h2>Azure Cloud SOC<h2>
+<p align="center">
+<img src="https://imgur.com/cW8RYr1.png alt="Traffic Examination"/>  
+</p>
 
-Coming Soon........
+<h2>Coming Soon.......<h2/>
