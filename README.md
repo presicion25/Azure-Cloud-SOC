@@ -119,7 +119,7 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
  
  Utilizing the following steps, an organization handling any high priority incident can do so using the NIST 800-61 guide successfully:
  
- - Step 1: Preparation: (In this lab wI did so by setting up a log analytics workspace to log traffic coming into the HoneyNet,  I configured Azure Sentinel and set up alerts to be triggered when incidents did occur.
+ - Step 1: Preparation: (In this lab I prepared by setting up a log analytics workspace to log traffic coming into the HoneyNet, I configured Azure Sentinel (SIEM) and set up alerts to be triggered when incidents did occur.
  
  - Step 2: Assigning the incident to someone, setting the status (Low, Medium, High), inspecting the logs, investigating the incident to determine if it is a false positive or true positive and to determine the scope (it's affect on the environement or network).
  
