@@ -39,6 +39,14 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
  <br />
  <br />
  
+ Click below for details:
+ 
+ <details close>
+
+<div>
+
+</summary>
+ 
  
   ## Architecture Before Hardening
   
@@ -70,6 +78,10 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
   
   <br />
   <br />
+  
+  Click below to see the details of the environment after hardening:
+  
+  <details close>
   
   
   ## Architecture After Hardening
