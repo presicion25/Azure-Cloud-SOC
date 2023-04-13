@@ -92,6 +92,8 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
   
  ## Rate of Change
  
+ As can be seen in the below chart, the incidents dropped significantly when the environment was hardened. Had I ran the controls even longer no doubt the incidents would have decresed even more.
+ 
  ![Rate of Change Table](https://imgur.com/cQHeXFV.png)
  <br />
  <br />
@@ -112,6 +114,8 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
  - Step 3: Using the Incident Response Playbook to catalog the details of the incident (basically the who, what, when, where, why and how) 
  
  - Step 4: Document the Findings and Close Out
+ <br />
+ <br />
  
  ## Cost Analysis
  
