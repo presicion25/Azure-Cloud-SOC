@@ -113,7 +113,13 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
  
  - Step 4: Document the Findings and Close Out
  
+ ## Cost Analysis
  
+ ![Lab Cost](https://imgur.com/jN51Kle.png)
+ <br />
+ <br />
+ 
+ My total cost for the lab was about 30USD. Had I turned off my VMs nightly the cost would be less but the traffic would have stopped being ingested by the logs. The forecasted cost was $130USD had I left all of the resources running for one full month.
  
   ## Conclusion
   
