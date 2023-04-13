@@ -96,6 +96,24 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
  <br />
  <br />
  
+ ## NIST Utilization as a Guideline for Security Controls
+
+
+ ![NIST](https://imgur.com/eQ9x5ls.png)
+ <br />
+ <br />
+ 
+ Utilizing the following steps, an organization handling any high priority incident can do so using the NIST 800-61 guide successfully:
+ 
+ - Step 1: Preparation: (In this lab wI did so by setting up a log analytics workspace to log traffic coming into the HoneyNet,  I configured Azure Sentinel and set up alerts to be triggered when incidents did occur.
+ 
+ - Step 2: Assigning the incident to someone, setting the status (Low, Medium, High), inspecting the logs, investigating the incident to determine if it is a false positive or true positive and to determine the scope (it's affect on the environement or network).
+ 
+ - Step 3: Using the Incident Response Playbook to catalog the details of the incident (basically the who, what, when, where, why and how) 
+ 
+ - Step 4: Document the Findings and Close Out
+ 
+ 
  
   ## Conclusion
   
