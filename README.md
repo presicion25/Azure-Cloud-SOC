@@ -131,8 +131,10 @@ For this project, I built a HoneyNet and SOC in Microsoft Azure. To accomplish t
   
   In this project I constructed a honeynet in Microsoft Azure with log sources that were integrated into a log analytics workspace. I also deployed Azure Sentinel in order to trigger alerts and incidents based on the log data from the log analytics workspace. There were metrics measured 24 hours after the creation all insecure resources and then 24 hours after implementing security controls. As seen in the metric data tables there was a dramatic drop in incidents because security controls were put in place which illustrates their effectiveness.
   
- Please note: This project was done in a controlled environment so results will vary based on applied situation.
+ Please note: This project was done in a controlled environment so results will vary based on applied situation.  
   
+  
+   <h1>The instructor for the course this lab was based on is Josh Madakor. You can visit <a href="https://www.youtube.com/@JoshMadakor">his Youtube channel here.</a>☺</h1>
    
   <h1>Thank Your for looking! For more content like this, visit <a href="https://exemplarysecurity.com">my website</a>☺</h1>
   
